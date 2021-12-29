@@ -1,1 +1,1 @@
-# c_vector_graphics_library
+# c vector graphics library
